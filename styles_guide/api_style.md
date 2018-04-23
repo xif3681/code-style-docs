@@ -10,11 +10,11 @@
 {"error":{"code":404,"message":"NOT FIND"}}
 、、、
 ## 3.接口分类
-#### 接口说明:
+#### * 接口说明:
 用户登录
-#### url:
+#### * URL:
 api/user/login
-#### HTTP请求方式：
+#### * HTTP请求方式：
 post
 #### 请求headers:
 data
@@ -22,7 +22,7 @@ data
 |:---|:---|:---|
 |username|string|用户名|
 |password|string|密码|
-#### 示例：
+#### * 示例：
 > * 请求：
 `url:`
 > * 响应：
