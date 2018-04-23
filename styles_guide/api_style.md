@@ -11,13 +11,13 @@
 、、、
 ## 3.接口分类
 #### * 接口说明:
-用户登录
+> 用户登录
 #### * URL:
-api/user/login
+> api/user/login
 #### * HTTP请求方式：
-post
+> post
 #### * 请求headers:
-data
+> data
 |参数名称|类型|参数描述|
 |:---|:---|:---|
 |username|string|用户名|
