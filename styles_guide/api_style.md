@@ -16,7 +16,7 @@
 api/user/login
 #### * HTTP请求方式：
 post
-#### 请求headers:
+#### * 请求headers:
 data
 |参数名称|类型|参数描述|
 |:---|:---|:---|
