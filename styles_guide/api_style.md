@@ -3,19 +3,19 @@
 
 ## 2.REST错误响应
 所有访问当出现错误时，HTTP响应包含以下header信息：
->content-type:application/json
+content-type:application/json
 http响应码：1xx,2xx,3xx,4xx,5xx
 http body包含具体错误描述信息，列：
 、、、
 {"error":{"code":404,"message":"NOT FIND"}}
 、、、
 ## 3.接口分类
->接口说明:
->用户登录
+接口说明:
+用户登录
 url:
->api/user/login
+api/user/login
 HTTP请求方式：
->post
+post
 请求headers:
 data
 |参数名称|类型|参数描述|
